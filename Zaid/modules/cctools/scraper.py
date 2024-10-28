@@ -15,8 +15,8 @@ _SCRTXT = """
 **Cc Found ->** {}
 
 
-🥷 **Scrapped By ->** {}
-👨‍🎤 **Developed By ->** @SHIVANSH474 🐲
+🥷 **Scrapped By ->**  {}
+👨‍🎤 **Developed By ->** @GOKUxEDITION 🐲
 """
 
 
