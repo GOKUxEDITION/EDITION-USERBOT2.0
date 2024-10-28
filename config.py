@@ -6,14 +6,14 @@ if os.path.exists("local.env"):
     load_dotenv("local.env")
 
 
-API_ID = int(getenv("API_ID", "6435225")) #optional
+API_ID = int(getenv("API_ID", "22008882")) #optional
 API_HASH = getenv("API_HASH", "") #optional
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
 OWNER_ID = int(getenv("OWNER_ID","7738821589"))
 MONGO_URL = getenv("MONGO_URL")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
-ALIVE_PIC = getenv("ALIVE_PIC", 'https://graph.org/file/0257475b4a28c284f14d0-24f4fb2fd7a7e07aba.jpg')
+ALIVE_PIC = getenv("ALIVE_PIC", 'https://graph.org/file/e9755738f6486ac6c7eda-5d5fcae8a3818f4f87.jpg')
 ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
