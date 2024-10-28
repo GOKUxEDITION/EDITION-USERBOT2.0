@@ -8,7 +8,7 @@ from Zaid.helper.basic import edit_or_reply, get_text, get_user
 
 from Zaid.modules.help import *
 
-OWNER = os.environ.get("OWNER", "⊷𓆩🇸​𝗧𝗥𝗔𝗡𝗚𝗘𝗥•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓")
+OWNER = os.environ.get("OWNER", "𝐆𝐎𝐊𝐔🇽𝐄𝐝𝐢𝐭𝐢𝐨𝐧™")
 BIO = os.environ.get("BIO", "💕ɪ ᴀᴍ ᴘᴀʀᴛ ᴏғ sᴛʀᴀɴɢᴇʀ💕")
 
 
